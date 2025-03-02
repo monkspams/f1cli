@@ -18,7 +18,7 @@ setup(
     author="A",
     author_email="example@domain.com",
     description="A CLI tool to fetch Formula 1 data",
-    url="https://github.com/yourusername/f1cli",
+    url="https://github.com/monkspams/f1cli",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
