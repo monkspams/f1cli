@@ -12,9 +12,10 @@ setup(
     ],
     entry_points={
         "console_scripts": [
-            "f1cli = main:app"
+            "f1cli=f1cli.main:app"
         ]
     },
+
     author="A",
     author_email="example@domain.com",
     description="A CLI tool to fetch Formula 1 data",
