@@ -12,7 +12,7 @@ setup(
     ],
     entry_points={
         "console_scripts": [
-            "f1cli=f1cli.main:app"
+            "f1cli=f1_cli.main:app"
         ]
     },
 
