@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="f1_cli",
-    version="0.1.0",
+    version="1.0.4",
     packages=find_packages(),
     install_requires=[
         "typer[all]",
